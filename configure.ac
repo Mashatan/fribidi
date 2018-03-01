@@ -186,7 +186,6 @@ AC_CONFIG_FILES([fribidi.pc
 		 Makefile
 		 gen.tab/Makefile
 		 lib/Makefile
-		 bin/Makefile
 		 doc/Makefile
 		 test/Makefile
 		 test/unicode-conformance/Makefile])
