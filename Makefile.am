@@ -4,7 +4,7 @@
 ACLOCAL_AMFLAGS = -I m4
 
 ## The order of subdirs is important, don't change without a reason.
-SUBDIRS = gen.tab lib bin doc test
+SUBDIRS = gen.tab lib doc test
 
 EXTRA_DIST = autogen.sh ChangeLog.old \
 	meson.build meson_options.txt bin/meson.build doc/meson.build \
